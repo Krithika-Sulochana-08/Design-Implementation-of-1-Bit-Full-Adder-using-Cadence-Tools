@@ -51,7 +51,8 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ## Output
 ### Transient Analysis Output:
 ![exp5 analyses2](https://github.com/user-attachments/assets/515aa936-bf2b-48c7-b109-4e7a9ce576e6)
-![Uploading exp 5 output.jpg…]()
+![exp 5 output](https://github.com/user-attachments/assets/df65e909-eb1a-4d3e-83f4-645dc557daca)
+
 
 
 
